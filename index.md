@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to TxtTodoist
 
-You can use the [editor on GitHub](https://github.com/mkaz07/TxtTodoist/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The main goal of TxtTodoist is to minimize the friction when adding calander events or reminders
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Why this app is useful
 
-### Markdown
+When we pickup our phones to do something specefic such as adding a calander event it is easy to get distracted and forget what our original intention was and just end up scrolling. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
